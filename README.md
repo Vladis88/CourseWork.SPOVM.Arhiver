@@ -1,2 +1,2 @@
 # CourseWork.SPOVM.Arhiver(QT-Creator)
-### 4 Семестр (ВМСиС, СПОВМ)
+### 4 Семестр, СПОВМ (ВМСиС)
